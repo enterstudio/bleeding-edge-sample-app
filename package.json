@@ -26,7 +26,7 @@
   "homepage": "https://github.com/rtfeldman/bleeding-edge-sample-app",
   "dependencies": {
     "body-parser": "^1.6.3",
-    "browserify": "^4.2.3",
+    "browserify": "^5.0.0",
     "es5-shim": "^4.0.1",
     "es6-promise": "^1.0.0",
     "event-emitter": "^0.3.1",
